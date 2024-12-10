@@ -1,0 +1,5 @@
+---
+"workspace:shift_focus_right": shift-cmd-R
+"editor_view:insert_autosuggestion": tab
+"input:open_completion_suggestions": ctrl-space
+"workspace:shift_focus_left": shift-cmd-L
