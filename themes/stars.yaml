@@ -3,7 +3,7 @@ background: "#141414"
 accent: "#130e41"
 foreground: "#ffffff"
 background_image:
-  path: ~/.warp/themes.jpg
+  path: ~/.warp/themes/stars.jpg
   opacity: 15
 details: darker
 cursor: "#FF5C00"
@@ -26,4 +26,4 @@ terminal_colors:
     magenta: "#ffb1fe"
     cyan: "#e5e6fe"
     white: "#feffff"
-name: stars-1837306_1920
+name: stars

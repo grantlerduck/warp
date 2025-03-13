@@ -3,8 +3,8 @@ background: "#141414"
 accent: "#cce0e9"
 foreground: "#ffffff"
 background_image:
-  path: ~/.warp/themes/tibet.jpg
-  opacity: 15
+  path: ~/.warp/themes/gulf.jpg
+  opacity: 20
 details: darker
 cursor: "#ed7315"
 terminal_colors:
@@ -26,4 +26,4 @@ terminal_colors:
     magenta: "#ffb1fe"
     cyan: "#e5e6fe"
     white: "#feffff"
-name: tibet
+name: gulf
